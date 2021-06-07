@@ -1,0 +1,36 @@
+.header{
+    display:flex ;
+    justify-content: space-between;
+    background-color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:white;
+}
+.menu{
+    background-color: whitesmoke;
+    
+}
+.body{
+    display:flex;
+    justify-content: space-around;
+}
+.body2{
+    background-color: whitesmoke;
+}
+.body3{
+    background-color: whitesmoke;
+}
+.body4{
+    background-color: whitesmoke;
+}
+.body5{
+    background-color: whitesmoke;
+}
+.body6{
+    display:flex;
+    justify-content: space-around;
+}
+.body7{
+    background-color: whitesmoke;
+}
